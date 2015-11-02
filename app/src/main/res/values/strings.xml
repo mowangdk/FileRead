@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileRead</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">请输入</string>
+    <string name="search">查询中</string>
+    <string name="button">打开文件</string>
+</resources>
